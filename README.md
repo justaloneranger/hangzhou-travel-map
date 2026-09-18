@@ -6,6 +6,14 @@
 
 ![全部点位](docs/preview-all.png)
 
+## 分享给别人
+
+把网址或下面这张二维码发出去即可，手机扫码直接用浏览器打开，不需要装任何 App：
+
+![二维码](docs/qrcode.png)
+
+网址：https://justaloneranger.github.io/hangzhou-travel-map/
+
 ## 内容
 
 共 **125 个点位**，按视频讲的线路分成 11 类：
